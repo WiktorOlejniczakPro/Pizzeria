@@ -91,7 +91,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Sztuka: "
+                        android:text="Sztuk: "
                         android:textSize="55px"/>
                     <TextView
                         android:layout_width="match_parent"
